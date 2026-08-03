@@ -45,7 +45,6 @@ Le projet mobilise :
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Équipe](#équipe)
-- [Avertissement](#avertissement)
 
 ---
 
@@ -627,8 +626,8 @@ optimisation-echanges-reins-python/
 │   └── GTA_algos.ipynb
 │
 ├── documentation/
-│   ├── rapport_complet_echanges_reins.pdf
-│   └── synthese_echanges_reins.pdf
+│   ├── Projet.pdf
+│   └── Synthèse_echanges_reins.pdf
 
 ```
 
